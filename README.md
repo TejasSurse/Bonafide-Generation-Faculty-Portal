@@ -3,6 +3,16 @@
 ## 🌟 Overview
 The **Bonafide Generation and Management System** is a modern, efficient platform that streamlines the process of generating and managing bonafide certificates for students. 📝✨ 
 
+## 🌐 Live Links
+- **Faculty Portal**: [Faculty Live Website](https://bonafide-generation-faculty-porta.vercel.app/)  
+- **Faculty GitHub Repository**: [Faculty Portal Repo](https://github.com/TejasSurse/Bonafide-Generation-Faculty-Portal)  
+
+- **Students Portal**: [Students Live Website](https://bonafide-generation-platform-lpqd.vercel.app/)  
+- **Students GitHub Repository**: [Students Portal Repo](https://github.com/TejasSurse/Bonafide-Generation-Platform)  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ### Key Features:
 - 🎯 **Student Access**:  
   - Students can log in using their PRN and a password (first four characters of their first name + birth year).  
